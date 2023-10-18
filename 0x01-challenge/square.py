@@ -3,6 +3,7 @@
     DOCS
 """
 
+
 class Square():
     """
     DOCS
