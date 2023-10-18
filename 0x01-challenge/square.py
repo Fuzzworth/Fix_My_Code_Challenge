@@ -4,7 +4,7 @@ DOCS
 """
 
 
-class Square():
+class Square:
     """
     DOCS
     """
